@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <language id="english">
+	
+	
+	<entry id="str_inventory_set_title_cc_succubus"><![CDATA["Now I remember everything." ]]></entry>
+	
+	<entry id="buff_stat_tooltip_ambush_chance"><![CDATA[%+d%% Nighttime Ambush chance]]></entry>
+	
+	
+	<entry id="str_inventory_title_trinketsucc_skullring"><![CDATA[Reaper's Ring]]></entry>
+	<entry id="str_inventory_title_trinketsucc_demonring"><![CDATA[Sharp Edged Ring]]></entry>
+	<entry id="str_inventory_title_trinketsucc_pentagram"><![CDATA[Hidden Thing]]></entry>
+	<entry id="str_invenregtory_title_trinketsucc_rosary"><![CDATA[Beads of the First Victim]]></entry>
+	<entry id="str_inventory_title_trinketsucc_rosary"><![CDATA[Beads of the First Victim]]></entry>
+	<entry id="str_inventory_title_trinketsucc_grindstone"><![CDATA[Cursed Grindstone]]></entry>
+	<entry id="str_inventory_title_trinketsucc_devotion"><![CDATA[Sign of Devotion]]></entry>
+	<entry id="str_inventory_title_trinketsucc_pheromones"><![CDATA[Succubus' Pheromones]]></entry>
+	<entry id="str_inventory_title_trinketsucc_parfume"><![CDATA[Demonic Scent]]></entry>
+	<entry id="str_inventory_title_trinketsucc_head"><![CDATA[Aria's Head]]></entry>
+	
+	<entry id="str_inventory_title_trinketsucc_memory"><![CDATA[Memory of Love]]></entry>
+	<entry id="str_inventory_title_trinketsucc_contract"><![CDATA[Demonic Contract]]></entry>
+	
+	<entry id="str_inventory_title_trinketsucc_earring"><![CDATA[Old Nuns Earring]]></entry>
+	<entry id="str_inventory_title_trinketsucc_earring_crow"><![CDATA[Malphas' Seal]]></entry>
+	<entry id="str_inventory_title_trinketsucc_earring_II"><![CDATA[False Promises]]></entry>
+	<entry id="str_inventory_title_trinketsucc_scythe"><![CDATA[Cluster Scythe]]></entry>
+	<!--CoM --> 
+	<entry id="str_monstername_cluster_crystal_A"><![CDATA[Cluster Crystal]]></entry>
+	<entry id="str_monster_skill_cluster_ranged_suicide"><![CDATA[Unstable Undoing]]></entry>
+	<entry id="str_monster_skill_cluster_suicide"><![CDATA[Repulsive Resonance]]></entry>
+	
+	<entry id="str_inventory_title_supplysucc_purple_spice"><![CDATA[{colour_start|succubus_notable}Cluster Dust{colour_end}]]></entry>
+	<entry id="str_inventory_description_supplysucc_purple_spice"><![CDATA[Infused Shard Dust.
+	Potency increases, the more is consumed.
+	{colour_start|notable}Good sell price.{colour_end}]]></entry>		
+	
+  </language>
+  
+  <language id="schinese">
+	<entry id="str_inventory_set_title_cc_succubus"><![CDATA[“现在我记得一切。” ]]></entry>
+	<entry id="buff_stat_tooltip_ambush_chance"><![CDATA[%+d%%夜间伏击几率]]></entry>
+	<entry id="str_inventory_title_trinketsucc_skullring"><![CDATA[收割者的戒指]]></entry>
+	<entry id="str_inventory_title_trinketsucc_demonring"><![CDATA[锋利的戒指]]></entry>
+	<entry id="str_inventory_title_trinketsucc_pentagram"><![CDATA[隐藏的事物]]></entry>
+	<entry id="str_invenregtory_title_trinketsucc_rosary"><![CDATA[第一位受害者的珠子]]></entry>
+	<entry id="str_inventory_title_trinketsucc_rosary"><![CDATA[第一位受害者的珠子]]></entry>
+	<entry id="str_inventory_title_trinketsucc_grindstone"><![CDATA[诅咒之石]]></entry>
+	<entry id="str_inventory_title_trinketsucc_devotion"><![CDATA[虔诚的星座]]></entry>
+	<entry id="str_inventory_title_trinketsucc_pheromones"><![CDATA[魅魔的信息素]]></entry>
+	<entry id="str_inventory_title_trinketsucc_parfume"><![CDATA[恶臭味]]></entry>
+	<entry id="str_inventory_title_trinketsucc_head"><![CDATA[咏叹调的头]]></entry>
+	<entry id="str_inventory_title_trinketsucc_memory"><![CDATA[爱的记忆]]></entry>
+	<entry id="str_inventory_title_trinketsucc_contract"><![CDATA[Demonic Contract]]></entry>
+	<entry id="str_inventory_title_trinketsucc_earring"><![CDATA[旧修女耳环]]></entry>
+	<entry id="str_inventory_title_trinketsucc_earring_crow"><![CDATA[Malphas的印章]]></entry>
+	<entry id="str_inventory_title_trinketsucc_earring_II"><![CDATA[虚假承诺]]></entry>
+	<entry id="str_inventory_title_trinketsucc_scythe"><![CDATA[集群镰刀]]></entry>
+	<entry id="str_monstername_cluster_crystal_A"><![CDATA[群集晶体]]></entry>
+	<entry id="str_monster_skill_cluster_ranged_suicide"><![CDATA[不稳定撤消]]></entry>
+	<entry id="str_monster_skill_cluster_suicide"><![CDATA[排斥共振]]></entry>
+	<entry id="str_inventory_title_supplysucc_purple_spice"><![CDATA[{colour_start|succubus_notable}集群灰尘{colour_end}]]></entry>
+	<entry id="str_inventory_description_supplysucc_purple_spice"><![CDATA[注入碎屑。
+		效力增加，消耗更多。
+		{colour_start|notable}好卖价。{colour_end}]]></entry>
+ </language>
+</root>

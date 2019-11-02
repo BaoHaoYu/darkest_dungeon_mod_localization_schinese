@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>E:/Steam_work/Succubus Mod Schinese Localization/</ModDataPath>
+	<Title>The Succubus Mod Schinese Localization</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>publich</Visibility>
+	<UploadMode>direct_upload</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>0</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Localization</Tags>
+	</Tags>
+	<ItemDescription>汉化The Succubus 魅魔mod</ItemDescription>
+	<PublishedFileId>1903926813</PublishedFileId>
+</project>
+

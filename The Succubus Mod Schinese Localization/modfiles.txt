@@ -1,0 +1,9 @@
+localization/1903926813_english.loc 44513
+localization/1903926813_schinese.loc 44413
+localization/succubus_english.string_table.xml 78221
+localization/succubus_schinese.string_table.xml 74763
+localization/trinkets__succubus.string_table.xml 4686
+modfiles.txt 319
+preview_icon.png 383111
+project.xml 641
+steam_workshop_uploader.log 24439

@@ -1,0 +1,6 @@
+localization/1770323723_english.loc 22580
+localization/1770323723_schinese.loc 22860
+localization/twilight_knight.string_table.xml 82890
+modfiles.txt 193
+preview_icon.png 172822
+project.xml 661
