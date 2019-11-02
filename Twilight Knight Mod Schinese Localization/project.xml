@@ -13,8 +13,14 @@
 	<TargetBuild>0</TargetBuild>
 	<Tags>
 		<Tags>Localization</Tags>
+		<Tags>Schinese</Tags>
 	</Tags>
-	<ItemDescription>汉化暮光骑士mod</ItemDescription>
+	<ItemDescription>Twilight Knight 暮光骑士mod 汉化
+
+==========
+
+项目地址： https://github.com/BaoHaoYu/darkest_dungeon_mod_localization_schinese	
+</ItemDescription>
 	<PublishedFileId>1770323723</PublishedFileId>
 </project>
 
