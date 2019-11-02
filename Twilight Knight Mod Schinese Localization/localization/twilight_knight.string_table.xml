@@ -15,13 +15,13 @@
     <entry id="combat_skill_name_twilight_knight_anticipation"><![CDATA[Anticipation]]></entry>  
     <entry id="combat_skill_name_twilight_knight_leap_of_faith"><![CDATA[Leap of Faith]]></entry>  
     <entry id="combat_skill_name_twilight_knight_move"><![CDATA[Move]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_hack"><![CDATA[Soothing Slash]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_cleave"><![CDATA[Whirlwind Attack]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_slay_the_beast"><![CDATA[Slay the Beast]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_strike_to_stun"><![CDATA[Strike to Stun]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_glimmer_of_hope"><![CDATA[Glimmer of Hope]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_anticipation"><![CDATA[Anticipation]]></entry>  
-    <entry id="upgrade_tree_name_twilight_knight_leap_of_faith"><![CDATA[Leap of Faith]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.hack"><![CDATA[Soothing Slash]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.cleave"><![CDATA[Whirlwind Attack]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.slay_the_beast"><![CDATA[Slay the Beast]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.strike_to_stun"><![CDATA[Strike to Stun]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.glimmer_of_hope"><![CDATA[Glimmer of Hope]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.anticipation"><![CDATA[Anticipation]]></entry>  
+    <entry id="upgrade_tree_name_twilight_knight.leap_of_faith"><![CDATA[Leap of Faith]]></entry>  
     <entry id="twilight_knight_weapon_0"><![CDATA[Inherited Sword]]></entry>  
     <entry id="twilight_knight_weapon_1"><![CDATA[Sharpened Sword]]></entry>  
     <entry id="twilight_knight_weapon_2"><![CDATA[Balanced Sword]]></entry>  
@@ -380,13 +380,13 @@
 		<entry id="combat_skill_name_twilight_knight_leap_of_faith"><![CDATA[天降神迹]]></entry>
 		<entry id="combat_skill_name_twilight_knight_move"><![CDATA[移动]]></entry>
 
-    <entry id="upgrade_tree_name_twilight_knight_hack"><![CDATA[镇定削砍]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_cleave"><![CDATA[旋风斩]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_slay_the_beast"><![CDATA[妖兽杀戮]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_strike_to_stun"><![CDATA[眩晕打击]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_glimmer_of_hope"><![CDATA[微光希望]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_anticipation"><![CDATA[后发制人]]></entry>
-    <entry id="upgrade_tree_name_twilight_knight_leap_of_faith"><![CDATA[天降神迹]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.hack"><![CDATA[镇定削砍]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.cleave"><![CDATA[旋风斩]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.slay_the_beast"><![CDATA[妖兽杀戮]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.strike_to_stun"><![CDATA[眩晕打击]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.glimmer_of_hope"><![CDATA[微光希望]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.anticipation"><![CDATA[后发制人]]></entry>
+    <entry id="upgrade_tree_name_twilight_knight.leap_of_faith"><![CDATA[天降神迹]]></entry>
 
 		<entry id="twilight_knight_weapon_0"><![CDATA[继承之剑]]></entry>
 		<entry id="twilight_knight_weapon_1"><![CDATA[锋利的剑]]></entry>
