@@ -149,7 +149,7 @@
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_TT_Transform_2E"><![CDATA[每回合:
 		每个队友 {colour_start|debuff}窃取{colour_end} 3 生命
 		每个队友 {colour_start|buff}获得{colour_end} 3%% 伤害]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_succ_TT_RE"><![CDATA[不能在战斗中 {colour_start|notable}重新变身{colour_end}]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_succ_TT_RE"><![CDATA[不能在战斗中 {colour_start|notable}重新暴露{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_TOOLTIP_TRINKET_Corpses"><![CDATA[{colour_start|notable}抽水:{colour_end} {colour_start|debuff}窃取{colour_end} 伤害 vs 尸体]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_TRINKET_BleedAlly"><![CDATA[所有队友不在 {colour_start|bleed}流血{colour_end} ]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_TRINKET_Grindstone"><![CDATA[+1 最小 伤害
@@ -160,7 +160,7 @@
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_TT_Cluster_1"><![CDATA[杀死怪物:
 		召唤 {colour_start|comet}水晶簇{colour_end}]]></entry>
 	<entry id="buff_stat_tooltip_upgrade_discount_succ_tooltip_magic"><![CDATA[2-10{colour_start|comet} 魔法伤害{colour_end}]]></entry>
-	<entry id="buff_stat_tooltip_upgrade_discount_succ_tooltip_blocktransform"><![CDATA[禁用变身]]]]></entry>
+	<entry id="buff_stat_tooltip_upgrade_discount_succ_tooltip_blocktransform"><![CDATA[禁用暴露]]]]></entry>
  </language>
 
 </root>
