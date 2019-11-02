@@ -2,11 +2,11 @@
 <project>
 	<PreviewIconFile>preview_icon.png</PreviewIconFile>
 	<ItemDescriptionShort/>
-	<ModDataPath>D:/project/dd/twilight_knight/steam/</ModDataPath>
+	<ModDataPath>E:/Steam_work/MyMod/Twilight Knight Mod Schinese Localization/</ModDataPath>
 	<Title>Twilight Knight Mod Schinese Localization</Title>
 	<Language>english</Language>
-	<UpdateDetails>字体颜色优化</UpdateDetails>
-	<Visibility>private</Visibility>
+	<UpdateDetails/>
+	<Visibility>public</Visibility>
 	<UploadMode>direct_upload</UploadMode>
 	<VersionMajor>0</VersionMajor>
 	<VersionMinor>0</VersionMinor>
