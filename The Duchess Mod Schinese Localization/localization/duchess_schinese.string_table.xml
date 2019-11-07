@@ -471,8 +471,8 @@
     <entry id="duchess+str_critbyhero"><![CDATA[这不是战斗，这是用餐准备。]]></entry>
     <entry id="duchess+str_critbyhero"><![CDATA[剑侠还是苏氏厨师？]]></entry>
     <entry id="duchess+str_critbyhero"><![CDATA[穿越我是不明智的。]]></entry>
-    <entry id="duchess+str_critbyhero"><![CDATA[您将看到更多这些内容。]]></entry>
-    <entry id="duchess+str_critbyhero"><![CDATA[您带我来真是太明智了。]]></entry>
+    <entry id="duchess+str_critbyhero"><![CDATA[你将看到更多这些内容。]]></entry>
+    <entry id="duchess+str_critbyhero"><![CDATA[你带我来真是太明智了。]]></entry>
     <entry id="duchess+str_bark_deathsdoor_ally"><![CDATA[如果你死了，我就把你吃了。]]></entry>
     <entry id="duchess+str_bark_deathsdoor_ally"><![CDATA[aaah，鲜肉。]]></entry>
     <entry id="duchess+str_bark_bigwound_ally"><![CDATA[错放的肢体不是我的错。]]></entry>
@@ -481,7 +481,7 @@
     <entry id="duchess+str_bark_bigwound"><![CDATA[你只是让我更饿了…]]></entry>
     <entry id="duchess+str_bark_increasingstress"><![CDATA[我觉得…饿极了。]]></entry>
     <entry id="duchess+str_bark_increasingstress"><![CDATA[所以…饿了……]]></entry>
-    <entry id="duchess+str_bark_increasingstress"><![CDATA[您现在看起来都有点像膨胀的香肠。]]></entry>
+    <entry id="duchess+str_bark_increasingstress"><![CDATA[你现在看起来都有点像膨胀的香肠。]]></entry>
     <entry id="duchess+str_bark_increasingstress"><![CDATA[我闻到…肉类。]]></entry>
     <entry id="duchess+str_bark_increasingstress"><![CDATA[我们将无法生存。好吧，我会活下来的。你们都会死的。]]></entry>
 
@@ -513,7 +513,7 @@
     <entry id="duchess+str_bark_torch_1"><![CDATA[我能感觉到它们越来越近了。你做了什么？]]></entry>
     <entry id="duchess+str_bark_torch_1"><![CDATA[你太担心了。他们不能反对我。]]></entry>
     <entry id="duchess+str_bark_torch_2"><![CDATA[aah，火炬熄灭了吗？我说不清。]]></entry>
-    <entry id="duchess+str_bark_torch_2"><![CDATA[您享受风险。我向你的勇气致敬，哀悼你的愚蠢。]]></entry>
+    <entry id="duchess+str_bark_torch_2"><![CDATA[你享受风险。我向你的勇气致敬，哀悼你的愚蠢。]]></entry>
     <entry id="duchess+str_bark_torch_2"><![CDATA[我觉得…安全。]]></entry>
     <entry id="duchess+str_bark_curiogood"><![CDATA[噢。我希望有怪物。]]></entry>
     <entry id="duchess+str_bark_curiogood"><![CDATA[战争资金。]]></entry>
@@ -529,14 +529,14 @@
     <entry id="duchess+str_night_ambush_bark_0"><![CDATA[我听到他们来了，但想看看你会做什么。]]></entry>
     <entry id="duchess+str_night_ambush_bark_0"><![CDATA[哦，我在看吗？我的错误。]]></entry>
     <entry id="duchess+str_night_ambush_bark_0"><![CDATA[哦，不，怪物，多么可怕，我们会做什么。]]></entry>
-    <entry id="duchess+str_monster_attack_baron_hunger"><![CDATA[您的节目总是那么俗气。]]></entry>
+    <entry id="duchess+str_monster_attack_baron_hunger"><![CDATA[你的节目总是那么俗气。]]></entry>
     <entry id="duchess+str_monster_attack_necessary_discipline"><![CDATA[男爵，你对睫毛的依赖太多了。]]></entry>
     <entry id="duchess+str_monster_attack_necessary_discipline"><![CDATA[我在你的作物下遭受了太长时间的折磨，你这个可憎的老鼠。]]></entry>
     <entry id="duchess+str_monster_attack_necessary_discipline"><![CDATA[腐烂的斯拉夫德河。我会得到我的到期日。]]></entry>
     <entry id="duchess+str_monster_attack_crowd_pleaser"><![CDATA[回来吧，小虫子。我会把你扁扁的！]]></entry>
     <entry id="duchess+str_monster_attack_crowd_pleaser"><![CDATA[你认为你可以逃离我吗？]]></entry>
     <entry id="duchess+str_monster_attack_crowd_pleaser"><![CDATA[我将在你的一千个马屁精中刻下一条横幅！]]></entry>
-    <entry id="duchess+str_monster_attack_intro_change_to_curtain"><![CDATA[您无法隐藏。我会嗅出你的气味。]]></entry>
+    <entry id="duchess+str_monster_attack_intro_change_to_curtain"><![CDATA[你无法隐藏。我会嗅出你的气味。]]></entry>
     <entry id="duchess+str_monster_attack_intro_change_to_curtain"><![CDATA[当被欺负者可以反击时，被欺负者会逃跑。]]></entry>
     <entry id="duchess+str_monster_attack_change_to_curtain_1-3"><![CDATA[他在这里的某个地方…]]></entry>
     <entry id="duchess+str_monster_attack_change_to_curtain_1-3"><![CDATA[他正变得绝望。]]></entry>
@@ -550,15 +550,15 @@
     <entry id="duchess+str_monster_attack_feed_on_bloated"><![CDATA[他不在乎打架！]]></entry>
     <entry id="duchess+str_monster_attack_feed_on_bloated"><![CDATA[我一点都不像他！]]></entry>
     <entry id="duchess+str_monster_attack_hungry_eyes"><![CDATA[你这只肥猪，你对饥饿一无所知。]]></entry>
-    <entry id="duchess+str_monster_attack_hungry_eyes"><![CDATA[我看到您在比较我们。]]></entry>
+    <entry id="duchess+str_monster_attack_hungry_eyes"><![CDATA[我看到你在比较我们。]]></entry>
     <entry id="duchess+str_monster_attack_served_rare"><![CDATA[我们没有什么相似之处！]]></entry>
 
     <entry id="duchess+str_monster_attack_transform_to_weak"><![CDATA[她犹豫了！]]></entry>
     <entry id="duchess+str_monster_attack_transform_to_weak"><![CDATA[已经喘不过气来了？]]></entry>
-    <entry id="duchess+str_monster_attack_transform_to_weak"><![CDATA[版税让您变得柔软。]]></entry>
+    <entry id="duchess+str_monster_attack_transform_to_weak"><![CDATA[版税让你变得柔软。]]></entry>
     <entry id="duchess+str_monster_attack_life_feeds_on_life"><![CDATA[我不会孵化你的地狱之卵！]]></entry>
     <entry id="duchess+str_monster_attack_life_feeds_on_life"><![CDATA[有趣的是，永远不要把你当作母亲的类型。]]></entry>
-    <entry id="duchess+str_monster_attack_life_feeds_on_life"><![CDATA[我敢肯定，您的孩子会和您一样腐败。]]></entry>
+    <entry id="duchess+str_monster_attack_life_feeds_on_life"><![CDATA[我敢肯定，你的孩子会和你一样腐败。]]></entry>
     <entry id="duchess+str_monster_attack_life_feeds_on_life"><![CDATA[充满脓液的囊液不会从血淋淋、漏水的树上掉落太远。]]></entry>
     <entry id="duchess+str_monster_attack_fan_flutter"><![CDATA[不要用这个卖弄风情的游戏来嘲笑我们。]]></entry>
     <entry id="duchess+str_monster_attack_fan_flutter"><![CDATA[那时我没有爱上它，现在我不会爱上它。]]></entry>
@@ -567,15 +567,15 @@
     <entry id="duchess+str_monster_attack_transform_to_berserk"><![CDATA[你总是那么容易被激怒。]]></entry>
     <entry id="duchess+str_monster_attack_feed_berserk"><![CDATA[那是一场游戏。现在是真的。这次我也会赢。]]></entry>
     <entry id="duchess+str_monster_attack_feed_berserk"><![CDATA[长时间坚持下去，我会像戴项链一样佩戴它。]]></entry>
-    <entry id="duchess+str_monster_attack_transform_to_normal"><![CDATA[当这一切结束时，您的头将装饰我的王座。]]></entry>
+    <entry id="duchess+str_monster_attack_transform_to_normal"><![CDATA[当这一切结束时，你的头将装饰我的王座。]]></entry>
     <entry id="duchess+str_monster_attack_transform_to_normal"><![CDATA[老天爷，你发胖了。]]></entry>
     <entry id="duchess+str_monster_attack_transform_to_normal"><![CDATA[我还没有决定是吃你还是让你腐烂作为一个例子。]]></entry>
     <entry id="duchess+str_treatment_committed"><![CDATA[一个人总是可以提高完美度。]]></entry>
-    <entry id="duchess+str_treatment_committed"><![CDATA[您可以试试，但我已经完美无缺了。]]></entry>
+    <entry id="duchess+str_treatment_committed"><![CDATA[你可以试试，但我已经完美无缺了。]]></entry>
     <entry id="duchess+str_treatment_committed"><![CDATA[钻石不是由软岩石制成的牢不可破。]]></entry>
     <entry id="duchess+str_treatment_committed"><![CDATA[是的，是的。只需使用产品即可。]]></entry>
     <entry id="duchess+str_disease_treatment_committed"><![CDATA[摘下我的头盔，我会摘下你的脸。]]></entry>
-    <entry id="duchess+str_disease_treatment_committed"><![CDATA[您无法治愈这个问题。但您可以尝试使用毒性较小的产品。]]></entry>
+    <entry id="duchess+str_disease_treatment_committed"><![CDATA[你无法治愈这个问题。但你可以尝试使用毒性较小的产品。]]></entry>
     <entry id="duchess+str_disease_treatment_committed"><![CDATA[似乎是浪费。少量放血可以治愈任何疾病。]]></entry>
     <entry id="duchess+str_disease_treatment_committed"><![CDATA[那顶漂亮的帽子。她还有鼻烟吗？]]></entry>
     <entry id="duchess+str_disease_treatment_committed"><![CDATA[你远不如戴着鸟面具的人温柔。]]></entry>
@@ -584,7 +584,7 @@
     <entry id="duchess+str_stagecoach_idle"><![CDATA[奇怪的时间适合奇怪的同床共枕者。]]></entry>
     <entry id="duchess+str_stagecoach_idle"><![CDATA[多棒的du-…令人愉快的地方。]]></entry>
     <entry id="duchess+str_stagecoach_idle"><![CDATA[它不在家，但现在就可以了。]]></entry>
-    <entry id="duchess+str_stagecoach_idle"><![CDATA[您面临着一项艰巨的任务。你需要盟友。您将需要我。]]></entry>
+    <entry id="duchess+str_stagecoach_idle"><![CDATA[你面临着一项艰巨的任务。你需要盟友。你将需要我。]]></entry>
     <entry id="duchess+str_stagecoach_idle"><![CDATA[我需要军队，你需要士兵。让我们做个交易。]]></entry>
     <entry id="duchess+str_roster_list_low_stress_bark"><![CDATA[法庭和它的怪物不会等待。]]></entry>
     <entry id="duchess+str_roster_list_low_stress_bark"><![CDATA[如果你想摆脱诅咒，就必须采取行动。]]></entry>
@@ -605,7 +605,7 @@
     <entry id="duchess+str_bark_deathsdoor"><![CDATA[最后，有机会与我的制造商见面。]]></entry>
     <entry id="duchess+str_bark_deathsdoor"><![CDATA[我可能会跌倒。但这不会是结局。]]></entry>
     <entry id="duchess+str_bark_deathsdoor"><![CDATA[这将是一个高贵的结尾，但对于…]]></entry>
-    <entry id="duchess+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[现在您知道下面是什么形状了。]]></entry>
+    <entry id="duchess+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[现在你知道下面是什么形状了。]]></entry>
     <entry id="duchess+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[第一级还不错。其余的…]]></entry>
     <entry id="duchess+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[那里也有饥饿感。我能感觉到它…]]></entry>
     <entry id="duchess+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[地下有血缘关系。在它上面，现在…]]></entry>
@@ -640,16 +640,16 @@
     <entry id="town_event_title_duchess_unlock"><![CDATA[奇怪的同床共枕]]></entry>
     <entry id="town_event_description_duchess_unlock"><![CDATA[一个被放逐的怪物，寻求一支军队来篡夺敌对的女王。我们是否陷入了如此绝望的境地，以至于我们会考虑把我们的命运投入到我们想要摧毁的生物身上？]]></entry>
 
-    <entry id="duchess+str_bark_encourage"><![CDATA[您的剑臂很结实，而且您有很好的判断力。]]></entry>
+    <entry id="duchess+str_bark_encourage"><![CDATA[你的剑臂很结实，而且你有很好的判断力。]]></entry>
     <entry id="duchess+str_bark_encourage"><![CDATA[如果你死了，我会在吃你的尸体之前先为你哀悼一下。你知道的，赞美你！]]></entry>
-    <entry id="duchess+str_bark_encourage"><![CDATA[在某些方面，您的优雅与我自己的相得益彰。]]></entry>
+    <entry id="duchess+str_bark_encourage"><![CDATA[在某些方面，你的优雅与我自己的相得益彰。]]></entry>
     <entry id="duchess+str_bark_first_aid"><![CDATA[作为一个女孩，这样的瘀伤和颠簸是我的导师常见的费用。]]></entry>
-    <entry id="duchess+str_bark_first_aid"><![CDATA[请注意，您的开胃程度不如您想象的那么好。]]></entry>
-    <entry id="duchess+str_bark_first_aid"><![CDATA[注意到您的不适，亲爱的。现在，在我们设置骨骼的同时咬这个。]]></entry>
+    <entry id="duchess+str_bark_first_aid"><![CDATA[请注意，你的开胃程度不如你想象的那么好。]]></entry>
+    <entry id="duchess+str_bark_first_aid"><![CDATA[注意到你的不适，亲爱的。现在，在我们设置骨骼的同时咬这个。]]></entry>
     <entry id="duchess+str_bark_pep_talk"><![CDATA[放松。我在这里。]]></entry>
     <entry id="duchess+str_bark_pep_talk"><![CDATA[现在，如果我要死了，那将引起人们的关注。]]></entry>
     <entry id="duchess+str_bark_pep_talk"><![CDATA[我不会太费心考虑它是如何工作的。我只是饿了很多。]]></entry>
-    <entry id="duchess+str_bark_bloodletting"><![CDATA[带上您需要的东西。]]></entry>
+    <entry id="duchess+str_bark_bloodletting"><![CDATA[带上你需要的东西。]]></entry>
     <entry id="duchess+str_bark_bloodletting"><![CDATA[千万不要说我没有为此牺牲。]]></entry>
     <entry id="duchess+str_bark_bloodletting"><![CDATA[别担心。我很快就会收到我的付款。]]></entry>
     <entry id="duchess+str_bark_self_care"><![CDATA[女士需要休息。]]></entry>
@@ -660,7 +660,7 @@
     <entry id="duchess+str_bark_the_fast"><![CDATA[我在注意我的身材。]]></entry>
     <entry id="duchess+str_bark_calling_card"><![CDATA[一个合适的女士知道足够让他们想要。]]></entry>
     <entry id="duchess+str_bark_calling_card"><![CDATA[饥渴差不多。这是一个不同的过程。]]></entry>
-    <entry id="duchess+str_bark_calling_card"><![CDATA[如果您有需要，您会知道在哪里可以找到我。]]></entry>
+    <entry id="duchess+str_bark_calling_card"><![CDATA[如果你有需要，你会知道在哪里可以找到我。]]></entry>
 
     <entry id="action_verbose_body_guild_duchess"><![CDATA[公爵夫人不愿意详细说明她的痛苦的起源，但似乎比其他人更容易接受它的影响。在人类的形态中，她是一个无与伦比的击剑手，当她的身体颤抖，她变成一个巨大的野兽，鲁莽地冲向她的敌人，被永不满足的饥饿驱使。她似乎对这种转变不感兴趣，事实上从中获得了安慰，这导致了可怕的暗示，公爵夫人可能不再认为她的人体是她的真实形态。]]></entry>
     <entry id="action_verbose_body_blacksmith_duchess"><![CDATA[公爵夫人的黑色刀刃是一件传家宝武器，具有巨大的重量和精湛的结构；有了它，她可以在敌人身上划出一道横木，砍下四肢，切断动脉。她那件破烂的连衣裙虽然老化了，表面上也不切实际，但用厚重的铁板加以填充和加固。这是她巨大力量的证明，她能够优雅轻松地使用这些设备。]]></entry>
