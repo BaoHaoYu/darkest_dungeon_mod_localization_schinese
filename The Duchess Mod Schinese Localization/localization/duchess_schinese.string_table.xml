@@ -670,7 +670,7 @@
     <entry id="str_inventory_set_title_cc_duchess_3"><![CDATA["请接受这份礼物，并致以我的歉意……"]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_duchess_resto_tooltip"><![CDATA[对于被诅咒的深红，恢复量将增加三倍]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_duchess_resto_tooltip2"><![CDATA[关于怪物杀戮：其他英雄：{colour_start|healhp}医疗{colour_end} 1 pts/rd for 2 rds]]></entry>
-    <entry id="buff_stat_tooltip_upgrade_discount_duchess_CC_tooltip"><![CDATA[友好技能：自我：获得深红诅咒（20%几率）]]></entry>
+    <entry id="buff_stat_tooltip_upgrade_discount_duchess_CC_tooltip"><![CDATA[友好技能：自我：获得深红诅咒（20%% 几率）]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_duchess_bosses_tooltip"><![CDATA[+50%%暴击 vs深红法庭老板]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_fencing_helm_tooltip"><![CDATA[英雄被击中：自身:获得标记（25%%几率）]]></entry>
     <entry id="buff_stat_tooltip_upgrade_discount_duchess_damage_tooltip"><![CDATA[攻击命中: {colour_start|buff}增益:{colour_end} +4%% 伤害如果有深红诅咒（持续1场战斗）]]></entry>
