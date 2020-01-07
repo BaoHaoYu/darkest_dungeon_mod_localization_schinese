@@ -1,87 +1,13 @@
-# 汉化个人感兴趣的mod
+# 汉化个人感兴趣的 mod
 
 全都在 localization 里面，感兴趣的同学可以帮忙修正
 
 ## mod 列表
 
-- Twilight Knight Mod Schinese Localization 暮光骑士汉化 mod
-- The Succubus Mod Schinese Localization 魅魔汉化 mod
-- The Duchess Mod Schinese Localization 女公爵汉化 mod
+- [Twilight Knight Mod Schinese Localization 暮光骑士汉化 mod](https://github.com/BaoHaoYu/darkest_dungeon_mod_localization_schinese/tree/master/Twilight%20Knight%20Mod%20Schinese%20Localization/localization)
+- [The Succubus Mod Schinese Localization 魅魔汉化 mod](https://github.com/BaoHaoYu/darkest_dungeon_mod_localization_schinese/tree/master/The%20Succubus%20Mod%20Schinese%20Localization/localization)
+- [The Duchess Mod Schinese Localization 女公爵汉化 mod](https://github.com/BaoHaoYu/darkest_dungeon_mod_localization_schinese/tree/master/The%20Duchess%20Mod%20Schinese%20Localization/localization)
 
-## 汉化教程
+## 汉化教程地址
 
-### 找到官方教程
-
-官方教程名字是：Darkest Dungeon - Modding Guide [Official]，英文能力好的话制作一个全新英雄不在话下  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/Steam_p7XsAFvgie.png)
-
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/Steam_cQ3ief8b2i.png)
-
-### 主要工具
-
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/KuXf5E4QgH.png)
-
-### 创建 mod 项目
-
-生成项目 xml，改名为 project.xml  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/explorer_46OFNseG3w.png)
-
-project.xml  
-
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<project>
-	<!-- mod预览图标 -->
-	<PreviewIconFile>preview_icon.png</PreviewIconFile>
-	<ItemDescriptionShort/>
-	<!-- mod文件地址 -->
-	<ModDataPath>E:/Steam_work/demo/</ModDataPath>
-	<!-- mod标题 -->
-	<Title>Demo Test Mod</Title>
-	<Language>english</Language>
-	<UpdateDetails/>
-	<!-- 是否公开mod -->
-	<Visibility>private</Visibility>
-	<UploadMode>direct_upload</UploadMode>
-	<VersionMajor>0</VersionMajor>
-	<VersionMinor>0</VersionMinor>
-	<TargetBuild>0</TargetBuild>
-	<!-- mod标签,方便别人搜索 -->
-	<Tags>
-		<Tags>Localization</Tags>
-		<Tags>Chinese</Tags>
-	</Tags>
-	<!-- mod描述 -->
-	<ItemDescription>Demo Test</ItemDescription>
-</project>
-```
-
-preview_icon.png  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/darkest_dungeon_preview_icon.png)
-
-### 找到汉化的 mod
-
-如女伯爵文本内容在`Steam\steamapps\workshop\content\262060\1744414212\localization`  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/explorer_PAk40PCmSU.png)
-
-拷贝到自己项目的 localization 文件目录下  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/Code_qVhJS1dhy1.png)
-
-### 汉化 xml
-
-保留 english，汉化 schinese，其他语言全删除  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/Code_tV4FVMWS0c.png)
-
-拖动 xml 到 localition  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/explorer_5r9Z4TTY68.png)
-
-生成汉化文件完毕  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/explorer_l7J6RHTGeZ.png)
-
-### 上传到 steam
-
-拖动  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/explorer_t7A3BTNtdJ.png)
-
-成功后会在自己发布的 mod 列表中出现  
-![](http://bhyblog.oss-cn-shenzhen.aliyuncs.com/hexo/Steam_f6oZHJvAf2.png)
+[地址](http://bhyddd.top/2019/10/31/game/%E6%9A%97%E9%BB%91%E5%9C%B0%E7%89%A2mod%E5%88%B6%E4%BD%9C/)
