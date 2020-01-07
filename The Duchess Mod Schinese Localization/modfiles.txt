@@ -1,6 +1,6 @@
 localization/1770405394_english.loc 22138
-localization/1770405394_schinese.loc 22370
-localization/duchess_schinese.string_table.xml 71802
-modfiles.txt 177
-preview_icon.png 172822
-project.xml 620
+localization/1770405394_schinese.loc 22367
+localization/duchess_schinese.string_table.xml 71799
+modfiles.txt 199
+preview_icon.png 359230
+project.xml 916
